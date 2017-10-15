@@ -1,2 +1,2 @@
 # Tutorials
-Just a place where to place some tutorials
+Just a place where to hold some tutorials
