@@ -20,7 +20,7 @@ enum SwitchStates { IS_OPEN,
                     IS_CLOSED,
                     IS_FALLING };
 SwitchStates switchState = IS_OPEN;
-byte switchPin = 2;
+byte switchPin = 10;
 
 enum SwitchModes { PULLUP,
                    PULLDOWN };
